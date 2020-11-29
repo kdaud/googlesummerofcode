@@ -7,3 +7,8 @@ if(true){
     console.log(myData);
 }
 console.log(myData);
+
+for (let i = 0; i < 6; i++) {
+    console.log('Count Down: '+i);
+    
+}
