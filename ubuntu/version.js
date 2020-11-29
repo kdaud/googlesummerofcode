@@ -1,5 +1,5 @@
 
-
+console.time;
 let myData='Male Samuel from Mekon';
 if(true){
     console.log(myData);
